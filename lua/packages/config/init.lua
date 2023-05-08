@@ -1,8 +1,10 @@
+-- Libraries
 local timer = timer
 local table = table
 local file = file
 local util = util
 
+-- Variables
 local setmetatable = setmetatable
 local gPackage = gpm.Package
 local ArgAssert = ArgAssert
