@@ -1,7 +1,0 @@
-{
-    "name": "config",
-    "files": {
-        "lua/packages/config/package.lua": "https://raw.githubusercontent.com/Pika-Software/config/master/lua/packages/config/package.lua",
-        "lua/packages/config/init.lua": "https://raw.githubusercontent.com/Pika-Software/config/master/lua/packages/config/init.lua"
-    }
-}
